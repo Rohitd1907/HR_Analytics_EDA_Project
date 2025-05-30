@@ -8,7 +8,7 @@
 - How to Run
 - Project Structure
 - Author
-- Datset Credits
+- Dataset Credits
 
 ## 📌 Project Overview
 
